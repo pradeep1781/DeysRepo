@@ -5,3 +5,4 @@ User-1 added Line-3
 User-1 added Line-4
 User-1 added Line-5
 User-1 added Line-6
+staged
